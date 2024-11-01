@@ -44,6 +44,7 @@ ul {
     width: 260px;
     padding: 10px;
     margin: 10px;
+    list-style: none;
 }
 
 @media screen and (max-width: 600px) {
